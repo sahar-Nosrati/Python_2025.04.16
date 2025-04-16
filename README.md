@@ -1,1 +1,2 @@
-# Python_2025.04.16
+# Learning Python
+  - Studying and finishing variables
